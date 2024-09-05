@@ -3,10 +3,17 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `With 3 years of experience in web development, I specialize in
+delivering high-quality web content management solutions and user-
+friendly, responsive interfaces. My expertise includes HTML, CSS,
+JavaScript, and React, MERN stack. I am eager to contribute to innovative IT
+environments and collaborate with cross-functional teams to develop
+impactful web-applications.`
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
-
+export const ABOUT_TEXT = `I am Radha Kulkarni, a web developer with a passion for creating engaging and user-centric experiences. I completed Masters degree in Computer Applications from (MIT World Peace University) and completed my Bachlor's studies in Computer Applications.
+Throughout my career, I have good knowledge in cutting-edge technologies, specializing in frontend development. My toolkit includes the dynamic duo of (React.js), HTML, CSS, JavaScript, MongoDB allowing me to build robust and responsive web applications.
+Whether it's translating design concepts or create beautiful user interfaces, I take pride in my ability to turn ideas into reality. I am not just a developer; I am a problem solver, an innovator, and a dedicated professional ready to contribute 
+my skills to the ever-evolving landscape of web development.`
 export const EXPERIENCES = [
   {
     year: "2023 - Present",
