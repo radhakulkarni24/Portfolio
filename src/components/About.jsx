@@ -1,4 +1,4 @@
-import aboutImg from "../assets/about.jpg";
+import aboutImg from "../assets/codingProfile.png";
 import { ABOUT_TEXT } from "../constants";
 const About = () => {
   return (
@@ -10,7 +10,7 @@ const About = () => {
       <div className="flex flex-wrap">
         <div className="w-full lg:w-1/2 lg:p-8">
           <div className="flex items-center justify-center">
-            <img className="rounded-2xl" src={aboutImg}></img>
+            <img className="rounded-2xl" src={aboutImg} height={150} width={500}></img>
           </div>
         </div>
         <div className="w-full lg:w-1/2">

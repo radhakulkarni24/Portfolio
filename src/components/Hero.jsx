@@ -27,6 +27,8 @@ const Hero = () => {
               src={profilePhoto}
               alt="photo"
               className="w-6/12 rounded-3xl"
+              height={150}
+              width={500}
             ></img>
           </div>
         </div>

@@ -1,7 +1,6 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `With 3 years of experience in web development, I specialize in
 delivering high-quality web content management solutions and user-
@@ -52,37 +51,30 @@ average response time by 30% and increasing user engagement by 20%`,
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Ticket Chatbot Application",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "The Ticket Chatbot Application is an internal tool for employees, allowing them to efficiently raise and manage queries or tickets through an interactive chatbot interface.",
+    technologies: ["HTML", "Fluent-UI", "React", "Node.js", "Bot framework", "MS teams"],
   },
   {
-    title: "Task Management App",
+    title: "Custom React Dashboard Application",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "A Custom React Dashboard is a personalized and dynamic interface built using React.js that allows users to visualize and manage data efficiently. It can be customized to suit different needs, such as monitoring business metrics, tracking project progress, or visualizing data analytics",
+    technologies: ["HTML", "CSS", "ReactJS", "Firebase","Figma"],
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
-  },
-  {
-    title: "Blogging Platform",
-    image: project4,
-    description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
-  },
+      "A personal portfolio website showcasing projects, skills, and experience information.",
+    technologies: ["HTML", "Tailwind CSS", "React", "Framer Motion", "Git"],
+  }
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "Pune, Maharashtra ",
+  phoneNo: "+91(9284257132) ",
+  email: "radha.kulkarni024@gmail.com",
 };
